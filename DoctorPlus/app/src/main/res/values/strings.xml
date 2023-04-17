@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DoctorPlus</string>
+    <string name="Logo">LogoApp</string>
+    <string name="id_number">identification number</string>
+    <string name="Password">Contraseña</string>
+    <string name="Imagen_Pildoras">pills</string>
+    <string name="ButtonMedication">Medication</string>
+    <string name="btnBuscarMedicamento">Buscar com.example.doctorplus.Medicamento</string>
+</resources>
